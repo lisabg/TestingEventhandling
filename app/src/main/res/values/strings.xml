@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">lisabg_oblig1</string>
+
+    <string name="palindrome_input_hint">Enter a word</string>
+    <string name="palindrome_check_word_button_title">Check if palindrome</string>
+    <string name="palindrome_response_text">\'%1$s\' is %2$sa palindrome</string>
+    <string name="palindrome_no_input_error_msg">Please enter a word</string>
+
+    <string name="converter_input_hint">1&#8211;999 999</string>
+    <string name="converter_convert_button_title">Convert</string>
+    <string name="converter_response_text">"%1$s %2$s \n= %3$s L"</string>
+    <string name="converter_no_input_error_msg">Please enter a number</string>
+
+
+    <string name="next_activity_title">Next activity</string>
+
+    <string name="quiz_true">True</string>
+    <string name="quiz_false">False</string>
+    <string name="quiz_reset">Restart Quiz</string>
+    <string name="quiz_result_text">"Result: %1$d/%2$d possible points"</string>
+    <string name="quiz_current_points_text">"Current points: %1$d"</string>
+
+
+    <string-array name="converter_options">
+        <item>select unit</item>
+        <item>fl oz</item>
+        <item>cp</item>
+        <item>gal</item>
+        <item>hogshead</item>
+    </string-array>
+
+</resources>
